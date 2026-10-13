@@ -1,0 +1,6 @@
+---
+name: nf-core Pipeline Monitor
+category: Interactive Apps
+subcategory: Bioinformatics
+role: web
+description: "Tower-like dashboard for your nf-core pipeline runs: live status, task progress, resources, and reports"

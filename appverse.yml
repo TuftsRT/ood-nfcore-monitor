@@ -1,0 +1,18 @@
+title: "nf-core Pipeline Monitor"
+name: "nf-core Pipeline Monitor"
+description: "Tower-like dashboard for nf-core pipeline runs launched through Open OnDemand: live status, task progress, per-process breakdown, resource usage, and one-click Nextflow/MultiQC reports."
+software: "Nextflow"
+app_type: "dashboard"
+implementation_tags:
+  - "passenger"
+  - "slurm"
+tags:
+  - "nextflow"
+  - "nf-core"
+  - "bioinformatics"
+  - "monitoring"
+maintainer:
+  name: "Tufts University Research Technology"
+  support_url: "https://github.com/TuftsRT/ood-nfcore-monitor/issues"
+website: "https://github.com/TuftsRT/ood-nfcore-monitor"
+docs: "https://github.com/TuftsRT/ood-nfcore-monitor#readme"
